@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aQabjnfS1oXtQ9tpcpLMNOEQzP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,8 +35,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.分支和循环">
+  <component name="RunManager" selected="Python.heart_line">
     <configuration name="分支和循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mooc python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DayDayUp365" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CalPi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mooc python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.第三章" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.第四章" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.第三章/DayDayUp365.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.第四章/CalPi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DrawPyhton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DrawhollandRadar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mooc python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.第九章" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章/DrawPyhton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.第九章/DrawhollandRadar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TextProgress Bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="递归求阶乘" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mooc python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.第三章" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五章" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.第三章/TextProgress Bar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.第五章/递归求阶乘.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="circle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="刷新效果的" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mooc python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,12 +134,122 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一章/三个简单小实例" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.第九章" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一章/三个简单小实例/circle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.第九章/刷新效果的.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="七段数码管绘制" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mooc python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.第五章/七段数码管绘制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="七段数码管绘制" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mooc python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.第五章/七段数码管绘制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="七段数码管绘制" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mooc python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.第五章/七段数码管绘制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fact" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mooc python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.第五章/fact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heart_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mooc python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.第九章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.第九章/heart_line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.heart_line" />
+        <item itemvalue="Python.DrawhollandRadar" />
+        <item itemvalue="Python.CalPi" />
+        <item itemvalue="Python.fact" />
         <item itemvalue="Python.分支和循环" />
-        <item itemvalue="Python.TextProgress Bar" />
-        <item itemvalue="Python.DayDayUp365" />
-        <item itemvalue="Python.DrawPyhton" />
-        <item itemvalue="Python.circle" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +302,24 @@
       <workItem from="1587645255010" duration="1770000" />
       <workItem from="1587647072401" duration="1789000" />
       <workItem from="1587648888075" duration="1819000" />
-      <workItem from="1587650745341" duration="250000" />
+      <workItem from="1587650745341" duration="1554000" />
+      <workItem from="1587653542524" duration="601000" />
+      <workItem from="1587704648498" duration="1447000" />
+      <workItem from="1587706551974" duration="1787000" />
+      <workItem from="1587708416527" duration="1794000" />
+      <workItem from="1587710242630" duration="1509000" />
+      <workItem from="1587713175691" duration="1780000" />
+      <workItem from="1587714979568" duration="1295000" />
+      <workItem from="1587717623656" duration="720000" />
+      <workItem from="1587722485212" duration="1749000" />
+      <workItem from="1587724271030" duration="1140000" />
+      <workItem from="1587731085312" duration="961000" />
+      <workItem from="1587735345739" duration="15000" />
+      <workItem from="1587735371876" duration="1709000" />
+      <workItem from="1587738307491" duration="973000" />
+      <workItem from="1587740453299" duration="1199000" />
+      <workItem from="1587743266873" duration="845000" />
+      <workItem from="1587795190364" duration="1254000" />
     </task>
     <servers />
   </component>
@@ -199,37 +331,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="861" y="261" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1587635325759" />
-    <state x="0" y="416" width="442" height="624" key="FileChooserDialogImpl" timestamp="1586674667104">
+    <state x="0" y="416" width="442" height="624" key="FileChooserDialogImpl" timestamp="1587735367881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="416" width="442" height="624" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586674667104" />
-    <state width="680" height="279" key="GridCell.Tab.0.bottom" timestamp="1587650277080">
+    <state x="0" y="416" width="442" height="624" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587735367881" />
+    <state width="1875" height="282" key="GridCell.Tab.0.bottom" timestamp="1587804485505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="680" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650277080" />
-    <state width="680" height="279" key="GridCell.Tab.0.center" timestamp="1587650277080">
+    <state width="1875" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587804485505" />
+    <state width="1875" height="282" key="GridCell.Tab.0.center" timestamp="1587804485505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="680" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650277080" />
-    <state width="680" height="279" key="GridCell.Tab.0.left" timestamp="1587650277080">
+    <state width="1875" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587804485505" />
+    <state width="1875" height="282" key="GridCell.Tab.0.left" timestamp="1587804485505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="680" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650277080" />
-    <state width="680" height="279" key="GridCell.Tab.0.right" timestamp="1587650277080">
+    <state width="1875" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587804485505" />
+    <state width="1875" height="282" key="GridCell.Tab.0.right" timestamp="1587804485505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="680" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650277080" />
-    <state x="639" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1587650745360">
+    <state width="1875" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587804485505" />
+    <state x="460" y="161" key="SettingsEditor" timestamp="1587710826036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="639" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587650745360" />
+    <state x="460" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587710826036" />
+    <state x="472" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1587804305440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587804305440" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mooc_python$circle.coverage" NAME="circle Coverage Results" MODIFIED="1586673099694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章/三个简单小实例" />
     <SUITE FILE_PATH="coverage/mooc_python$area.coverage" NAME="area Coverage Results" MODIFIED="1586671525597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章/三个简单小实例" />
+    <SUITE FILE_PATH="coverage/mooc_python$CalPi.coverage" NAME="CalPi Coverage Results" MODIFIED="1587723661748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四章" />
     <SUITE FILE_PATH="coverage/mooc_python$DrawPyhton.coverage" NAME="DrawPyhton Coverage Results" MODIFIED="1587634111720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
     <SUITE FILE_PATH="coverage/mooc_python$DayDayUp365.coverage" NAME="DayDayUp365 Coverage Results" MODIFIED="1587642566048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.第三章" />
-    <SUITE FILE_PATH="coverage/mooc_python$.coverage" NAME="分支和循环 Coverage Results" MODIFIED="1587650277068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四章" />
+    <SUITE FILE_PATH="coverage/mooc_python$fact.coverage" NAME="fact Coverage Results" MODIFIED="1587710177264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五章" />
+    <SUITE FILE_PATH="coverage/mooc_python$heart_line.coverage" NAME="heart_line Coverage Results" MODIFIED="1587804485489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九章" />
+    <SUITE FILE_PATH="coverage/mooc_python$.coverage" NAME="递归求阶乘 Coverage Results" MODIFIED="1587743664830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五章" />
     <SUITE FILE_PATH="coverage/mooc_python$TextProgress_Bar.coverage" NAME="TextProgress Bar Coverage Results" MODIFIED="1587649379351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.第三章" />
+    <SUITE FILE_PATH="coverage/mooc_python$DrawhollandRadar.coverage" NAME="DrawhollandRadar Coverage Results" MODIFIED="1587796756142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九章" />
   </component>
 </project>

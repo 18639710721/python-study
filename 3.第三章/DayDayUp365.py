@@ -28,7 +28,7 @@ math库
 # daydown = math.pow((1-dayfactor),365)
 # print(f"dayup:{dayup:.2f},daydown:{daydown:.2f}")   # ayup:37.78,daydown:0.03
 
-# 3.4 workday N * (1+0.01)   非workday N * (1-0.01)
+# 3.4 workday N * (1+0.01)   非workday N * (1-0.01)   计算机仿真和模拟
 # dayup,dayfactor = 1.0, 0.01
 # for i in range(365):
 #     if i % 7 in [6,0]:
